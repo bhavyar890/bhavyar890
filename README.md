@@ -1,24 +1,42 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bhavyar890.bhavyar890" />
+<h1 align="center">👋 Hello, I'm Bhavya Reddy Ganta!</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!;I'm+Bhavya+Reddy+Ganta!;Software+Developer+Extraordinaire;" />
-</h1>
+<h3 align="center">🚀 Software Developer | Tech Innovator | Lifelong Learner</h3>
 
-<h3 align="center">A dedicated and passionate software developer from Boston, MA</h3>
+<p align="center">
+  Crafting code from Boston, MA | Master's Candidate at Northeastern University
+</p>
 
-<br/>
+---
 
 <div align="center">
- 
- 🔭 I’m currently working on a marketplace platform and pursuing a Master’s in Information Systems at Northeastern University.
- 
- 🌱 I’m deepening my skills in Docker, Supabase, and AWS, building on a solid foundation in Java, Python, and Swift.
- 
- 💬 Ask me about Node.js, React, SwiftUI, and managing complex datasets... or anything [here](https://github.com/bhavyar890/bhavyar890/issues)
+  <b>🔭 What I'm Up To:</b>
+  <ul>
+    <li>Leading development on a cutting-edge marketplace platform.</li>
+    <li>Diving deep into Docker, Supabase, and AWS to transform ideas into impactful solutions.</li>
+  </ul>
 
-⚡ Fun fact: I led the development of 'MindEase', a mental health app designed to enhance user engagement through interactive features.
+  <b>💡 Passion Projects:</b>
+  <ul>
+    <li>Creator of 'MindEase' – A mental health app that connects and comforts through technology.</li>
+    <li>Exploring the intersection of tech and well-being to create tools that empower individuals.</li>
+  </ul>
 
+  <b>🛠️ Tech Stack I Love:</b>
+  <p>Java, Python, Swift, Node.js, React, SwiftUI, and more. Always expanding my toolbox!</p>
 </div>
+
+<div align="center">
+  <a href="mailto:ganta.b@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
+  <a href="https://www.linkedin.com/in/bhavya-reddy-ganta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://bhavyar890.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ask_Me-Anything-1abc9c.svg?style=flat" alt="Ask Me Anything"/>
+  <img src="https://img.shields.io/badge/Fun_Fact-I've_led_development_teams_to_create_award_winning_apps-f39c12.svg?style=flat" alt="Fun Fact"/>
+</div>
+
+---
 
 <div align="center">
   <a href="mailto:ganta.b@northeastern.edu">
